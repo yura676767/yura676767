@@ -2,7 +2,7 @@ socials:
 <p href="https://aubergine.cowsite.net/">
         <img border="0" alt="cow" src="https://github.com/user-attachments/assets/fce77dbf-bb4c-4a1d-b7aa-99eb89da44c1" width="200">
 </p>
-<p href="https://t.me/weirdscienceooh">
+<p href="t.me/weirdscienceooh">
         <img border="0" alt="tg" src="https://github.com/user-attachments/assets/a8a61ab1-9c9c-40bd-a4a7-19531297893b" width="200">
 </p>
 
