@@ -4,5 +4,5 @@
 <img src="https://galore.neocities.org/they%20stuff/catsquare.png" alt="c" width="400">
 
 <a href="https://aubergine.cowsite.net/">
-        <img border="0" alt="W3Schools" src="https://github.com/user-attachments/assets/fce77dbf-bb4c-4a1d-b7aa-99eb89da44c1" width="300" height="100">
+        <img border="0" alt="W3Schools" src="https://github.com/user-attachments/assets/fce77dbf-bb4c-4a1d-b7aa-99eb89da44c1" width="200">
 </a>
